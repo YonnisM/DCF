@@ -1,0 +1,15 @@
+{
+  "ticker": "VOLV-B.ST",
+  "revenue": [400000000000, 430000000000, 450000000000],
+  "ebit_margin": 0.1,
+  "da_pct": 0.05,
+  "capex_pct": 0.05,
+  "deltawnc_pct": 0.01,
+  "rf": 0.02,
+  "beta": 1.1,
+  "mrp": 0.055,
+  "g": 0.02,
+  "horizon": 5,
+  "shares": 2030000000,
+  "net_debt": -10000000000
+}
