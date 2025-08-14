@@ -3,13 +3,10 @@
   "version": "1.0.0",
   "type": "module",
   "dependencies": {
-    "node-fetch": "^3.3.2",
     "yahoo-finance2": "^2.5.1",
-    "cheerio": "^1.0.0-rc.12",
-    "pdf-parse": "^1.1.1",
-    "openai": "^4.0.0"
+    "undici": "^6.13.0"
   },
   "scripts": {
-    "test": "node src/comprehensiveDataFetch.js AAPL"
+    "test": "node src/exampleRunner.js"
   }
 }
